@@ -1,4 +1,4 @@
-# Hi there! I'm Nuno :full_moon_with_face:
+# Hi there! I'm Nuno :speech_balloon:
 
 •	 I'm a passionate **Full Stack developer** with a focus on **Frontend** and **UX/UI** and an academic background in **music production** :space_invader:
 
