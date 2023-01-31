@@ -4,4 +4,4 @@
 
 •	 I work with Typescript, Javascript, HTML and CSS mostly in React and have experience in Java as well :computer:
 
-•	 Contact me at my Linkedin! [Linkedin](www.linkedin.com/in/nuno-craveiro) :rocket:
+•	 Contact me at my [Linkedin](www.linkedin.com/in/nuno-craveiro) :rocket:
