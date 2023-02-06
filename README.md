@@ -8,4 +8,4 @@ Nowadays I now combine this skill with my love for clean code, learning new tech
 
 •	 Contact me at my [Linkedin](www.linkedin.com/in/nuno-craveiro) :rocket:
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg'>
