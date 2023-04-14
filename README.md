@@ -92,14 +92,4 @@ Nowadays I combine this skill with my love for clean code and design, learning n
       src="https://skillicons.dev/icons?i=mongodb" 
       alt="mongoDB" title="MongoDB" width="40" height="40"/> 
   </a>
-  <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank"> 
-    <img 
-      src="https://skillicons.dev/icons?i=dotnet" 
-      alt="mongoDB" title="MongoDB" width="40" height="40"/> 
-  </a>
-  <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
-    <img 
-      src="https://skillicons.dev/icons?i=flask" 
-      alt="mongoDB" title="MongoDB" width="40" height="40"/> 
-  </a>
 </p>
