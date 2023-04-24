@@ -77,11 +77,6 @@ Nowadays I combine this skill with my love for clean code and design, learning n
       src="https://skillicons.dev/icons?i=next" 
       alt="next" title="Next JS" width="40" height="40"/> 
   </a>
-  <a href="https://www.docker.com/company/" target="_blank"> 
-    <img 
-      src="https://skillicons.dev/icons?i=docker" 
-      alt="docker" title="Docker" width="40" height="40"/> 
-  </a>
   <a href="https://www.postgresql.org/about/" target="_blank"> 
     <img 
       src="https://skillicons.dev/icons?i=postgres" 
