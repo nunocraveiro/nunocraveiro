@@ -1,4 +1,4 @@
-# Hi there! I'm Nuno :speech_balloon:
+<h1>Hi there! I'm Nuno :speech_balloon:</h1>
 
 •	 **Full Stack developer** with a focus on **Frontend** and **UX/UI**.
 With an academic background both in Music and Computer Science and professional experience as a music composer, **turning ideas into creative solutions** is something I am very familiar with and have a passion for. For me, it's all about coming up with the best result for each different challenge!
